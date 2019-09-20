@@ -1,0 +1,1457 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.16025,33.278783 ]
+    },
+    "properties": {
+    "Tree  ID":2661,
+    "Scientific  Name":"Koeberlinia  spinosa",
+    "Common  Name":"Allthorn",
+    "Cir  (in)":27,
+    "H  (ft)":23,
+    "Spread  (ft)":19,
+    "Total Score":55,
+    "Year  Nominated":1993,
+    "Last  Measured":2013,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pinal",
+    "Nearest  City or Town":"Superior"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.02915,34.63123 ]
+    },
+    "properties": {
+    "Tree  ID":2681,
+    "Scientific  Name":"Fraxinus  cuspidata",
+    "Common  Name":"Fragrant  Ash",
+    "Cir  (in)":46,
+    "H  (ft)":40,
+    "Spread  (ft)":37,
+    "Total Score":95,
+    "Year  Nominated":2004,
+    "Last  Measured":2014,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Strawberry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.09275,31.55136 ]
+    },
+    "properties": {
+    "Tree  ID":2682,
+    "Scientific  Name":"Fraxinus  gooddingii",
+    "Common  Name":"Goodding's  Ash",
+    "Cir  (in)":25,
+    "H  (ft)":25,
+    "Spread  (ft)":20,
+    "Total Score":55,
+    "Year  Nominated":1995,
+    "Last  Measured":2019,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Santa  Cruz",
+    "Nearest  City or Town":"Tumacacori"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.072583,34.692016 ]
+    },
+    "properties": {
+    "Tree  ID":2685,
+    "Scientific  Name":"Fraxinus  anomala  var.  lowellii",
+    "Common  Name":"Lowell  Ash",
+    "Cir  (in)":58,
+    "H  (ft)":33,
+    "Spread  (ft)":21,
+    "Total Score":96,
+    "Year  Nominated":2003,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Cottonwood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.67095,34.69205 ]
+    },
+    "properties": {
+    "Tree  ID":2773,
+    "Scientific  Name":"Canotia  holacantha",
+    "Common  Name":"Canotia",
+    "Cir  (in)":90,
+    "H  (ft)":32,
+    "Spread  (ft)":20,
+    "Total Score":127,
+    "Year  Nominated":2005,
+    "Last  Measured":2013,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Mohave",
+    "Nearest  City or Town":"Wikieup"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.86003,31.70085 ]
+    },
+    "properties": {
+    "Tree  ID":2786,
+    "Scientific  Name":"Cercocarpus  breviflorus",
+    "Common  Name":"Hairy  Cercocarpus",
+    "Cir  (in)":37,
+    "H  (ft)":25,
+    "Spread  (ft)":20,
+    "Total Score":67,
+    "Year  Nominated":1996,
+    "Last  Measured":2015,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Santa Cruz",
+    "Nearest  City or Town":"Green  Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.1025,34.6912 ]
+    },
+    "properties": {
+    "Tree  ID":2805,
+    "Scientific  Name":"Prunus  serotina  var.  rufula",
+    "Common  Name":"Southwestern  Black  Cherry",
+    "Cir  (in)":136,
+    "H  (ft)":66,
+    "Spread  (ft)":50,
+    "Total Score":215,
+    "Year  Nominated":2004,
+    "Last  Measured":2014,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Jerome"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.704744,32.368519 ]
+    },
+    "properties": {
+    "Tree  ID":2836,
+    "Scientific  Name":"Cupressus  arizonica  ssp.  arizonica",
+    "Common  Name":"Arizona  Cypress",
+    "Cir  (in)":244,
+    "H  (ft)":106,
+    "Spread  (ft)":48,
+    "Total Score":362,
+    "Year  Nominated":1955,
+    "Last  Measured":2014,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pima",
+    "Nearest  City or Town":"Tucson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.85253,34.60425 ]
+    },
+    "properties": {
+    "Tree  ID":2837,
+    "Scientific  Name":"Cupressus  arizonica  var.  glabra",
+    "Common  Name":"Arizona  Smooth  Bark  Cypress",
+    "Cir  (in)":240,
+    "H  (ft)":78,
+    "Spread  (ft)":56,
+    "Total Score":332,
+    "Year  Nominated":2003,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Camp  Verde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.820283,33.395416 ]
+    },
+    "properties": {
+    "Tree  ID":2859,
+    "Scientific  Name":"Chilopsis  linearis",
+    "Common  Name":"Desert  Willow",
+    "Cir  (in)":174,
+    "H  (ft)":45,
+    "Spread  (ft)":49,
+    "Total Score":231,
+    "Year  Nominated":1976,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Gila",
+    "Nearest  City or Town":"Globe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7573,31.53983 ]
+    },
+    "properties": {
+    "Tree  ID":2886,
+    "Scientific  Name":"Sambucus  mexicana",
+    "Common  Name":"Mexican  Elderberry",
+    "Cir  (in)":95,
+    "H  (ft)":41,
+    "Spread  (ft)":26,
+    "Total Score":143,
+    "Year  Nominated":2005,
+    "Last  Measured":2013,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Santa  Cruz",
+    "Nearest  City or Town":"Patagonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.158483,33.2796 ]
+    },
+    "properties": {
+    "Tree  ID":3037,
+    "Scientific  Name":"Eysenhardtia  texana",
+    "Common  Name":"Texas  Kidneywood",
+    "Cir  (in)":17,
+    "H  (ft)":27,
+    "Spread  (ft)":14,
+    "Total Score":48,
+    "Year  Nominated":2003,
+    "Last  Measured":2013,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pinal",
+    "Nearest  City or Town":"Superior"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.00473,33.5183 ]
+    },
+    "properties": {
+    "Tree  ID":3061,
+    "Scientific  Name":"Lysiloma  watsonii",
+    "Common  Name":"Desert  Fern",
+    "Cir  (in)":101,
+    "H  (ft)":38,
+    "Spread  (ft)":48,
+    "Total Score":151,
+    "Year  Nominated":2005,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Maricopa",
+    "Nearest  City or Town":"Paradise  Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.84086,31.378416 ]
+    },
+    "properties": {
+    "Tree  ID":3101,
+    "Scientific  Name":"Prosopis  velutina",
+    "Common  Name":"Velvet  Mesquite",
+    "Cir  (in)":196,
+    "H  (ft)":46,
+    "Spread  (ft)":60,
+    "Total Score":257,
+    "Year  Nominated":1949,
+    "Last  Measured":2014,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Santa  Cruz",
+    "Nearest  City or Town":"Nogales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7105,32.0607 ]
+    },
+    "properties": {
+    "Tree  ID":3121,
+    "Scientific  Name":"Quercus  turbinella  var.  ajoensis",
+    "Common  Name":"Sonoran  Scrub  Oak",
+    "Cir  (in)":66,
+    "H  (ft)":30,
+    "Spread  (ft)":35,
+    "Total Score":105,
+    "Year  Nominated":1993,
+    "Last  Measured":2009,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pima",
+    "Nearest  City or Town":"Why"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.1205,34.30243 ]
+    },
+    "properties": {
+    "Tree  ID":3145,
+    "Scientific  Name":"Quercus  palmeri",
+    "Common  Name":"Palmer  Oak",
+    "Cir  (in)":68,
+    "H  (ft)":40,
+    "Spread  (ft)":38,
+    "Total Score":118,
+    "Year  Nominated":1995,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Congress"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.198983,34.47245 ]
+    },
+    "properties": {
+    "Tree  ID":3152,
+    "Scientific  Name":"Quercus  gambelii",
+    "Common  Name":"Gambel  Oak",
+    "Cir  (in)":219,
+    "H  (ft)":106,
+    "Spread  (ft)":64,
+    "Total Score":341,
+    "Year  Nominated":2003,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Strawberry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.27342,33.60788 ]
+    },
+    "properties": {
+    "Tree  ID":3197,
+    "Scientific  Name":"Nerium  oleander",
+    "Common  Name":"Oleander",
+    "Cir  (in)":65,
+    "H  (ft)":30,
+    "Spread  (ft)":27,
+    "Total Score":102,
+    "Year  Nominated":2003,
+    "Last  Measured":2013,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Maricopa",
+    "Nearest  City or Town":"Sun  City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.94076,32.23074 ]
+    },
+    "properties": {
+    "Tree  ID":3200,
+    "Scientific  Name":"Citrus  aurantium",
+    "Common  Name":"Bitter  Orange",
+    "Cir  (in)":44,
+    "H  (ft)":28,
+    "Spread  (ft)":24,
+    "Total Score":78,
+    "Year  Nominated":2004,
+    "Last  Measured":2014,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pima",
+    "Nearest  City or Town":"Tucson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.25385,33.13035 ]
+    },
+    "properties": {
+    "Tree  ID":3210,
+    "Scientific  Name":"Parkinsonia  microphylla",
+    "Common  Name":"Yellow  Palo  Verde",
+    "Cir  (in)":66,
+    "H  (ft)":29,
+    "Spread  (ft)":44,
+    "Total Score":106,
+    "Year  Nominated":2003,
+    "Last  Measured":2013,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Maricopa",
+    "Nearest  City or Town":"Maricopa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.86756,31.69226 ]
+    },
+    "properties": {
+    "Tree  ID":3229,
+    "Scientific  Name":"Pinus  engelmannii",
+    "Common  Name":"Apache  Pine",
+    "Cir  (in)":127,
+    "H  (ft)":108,
+    "Spread  (ft)":44,
+    "Total Score":246,
+    "Year  Nominated":1998,
+    "Last  Measured":2008,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Santa  Cruz",
+    "Nearest  City or Town":"Green  Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.70806,32.3892 ]
+    },
+    "properties": {
+    "Tree  ID":3231,
+    "Scientific  Name":"Pinus  arizonica",
+    "Common  Name":"Arizona  Pine",
+    "Cir  (in)":150,
+    "H  (ft)":108,
+    "Spread  (ft)":60,
+    "Total Score":273,
+    "Year  Nominated":1998,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pima",
+    "Nearest  City or Town":"Summerhaven"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.53163,35.127916 ]
+    },
+    "properties": {
+    "Tree  ID":3355,
+    "Scientific  Name":"Amelanchier  utahensis",
+    "Common  Name":"Utah  Serviceberry",
+    "Cir  (in)":14,
+    "H  (ft)":20,
+    "Spread  (ft)":29,
+    "Total Score":41,
+    "Year  Nominated":2005,
+    "Last  Measured":2019,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Flagstaff"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.3353,33.42438 ]
+    },
+    "properties": {
+    "Tree  ID":3411,
+    "Scientific  Name":"Rhus  ovata",
+    "Common  Name":"Sugar  Sumac",
+    "Cir  (in)":71,
+    "H  (ft)":34,
+    "Spread  (ft)":36,
+    "Total Score":114,
+    "Year  Nominated":1995,
+    "Last  Measured":2009,
+    "Status":"Co-Champion",
+    "Public":"Y",
+    "County":"Pinal",
+    "Nearest  City or Town":"Gold  Canyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.70055,32.05137 ]
+    },
+    "properties": {
+    "Tree  ID":3445,
+    "Scientific  Name":"Vauquelinia  californica",
+    "Common  Name":"Arizona  Rosewood",
+    "Cir  (in)":78,
+    "H  (ft)":47,
+    "Spread  (ft)":40,
+    "Total Score":135,
+    "Year  Nominated":1993,
+    "Last  Measured":2014,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pima",
+    "Nearest  City or Town":"Why"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates": [ 	-111.124769,33.667502 ]
+    },
+    "properties": {
+    "Tree  ID":3845,
+    "Scientific  Name":"Nicotiana  glauca",
+    "Common  Name":"Tree  Tobacco",
+    "Cir  (in)":18,
+    "H  (ft)":20,
+    "Spread  (ft)":16,
+    "Total Score":42,
+    "Year  Nominated":2007,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Gila",
+    "Nearest  City or Town":"Roosevelt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.31028,34.46255 ]
+    },
+    "properties": {
+    "Tree  ID":3846,
+    "Scientific  Name":"Juniperus  californica",
+    "Common  Name":"California  Juniper",
+    "Cir  (in)":65,
+    "H  (ft)":25,
+    "Spread  (ft)":38,
+    "Total Score":100,
+    "Year  Nominated":2007,
+    "Last  Measured":2019,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Nothing"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.868,34.436 ]
+    },
+    "properties": {
+    "Tree  ID":3848,
+    "Scientific  Name":"Juglans  major",
+    "Common  Name":"Arizona  Walnut",
+    "Cir  (in)":215,
+    "H  (ft)":81,
+    "Spread  (ft)":88,
+    "Total Score":318,
+    "Year  Nominated":2007,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Camp  Verde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.772265,33.967218 ]
+    },
+    "properties": {
+    "Tree  ID":3849,
+    "Scientific  Name":"Parkinsonia  florida",
+    "Common  Name":"Blue  Palo  Verde",
+    "Cir  (in)":80,
+    "H  (ft)":39,
+    "Spread  (ft)":47,
+    "Total Score":131,
+    "Year  Nominated":2007,
+    "Last  Measured":2019,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Maricopa",
+    "Nearest  City or Town":"Wickenburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.561,34.004 ]
+    },
+    "properties": {
+    "Tree  ID":3851,
+    "Scientific  Name":"Salix  geyeriana",
+    "Common  Name":"Geyer  Willow",
+    "Cir  (in)":10,
+    "H  (ft)":13,
+    "Spread  (ft)":14,
+    "Total Score":27,
+    "Year  Nominated":2007,
+    "Last  Measured":2015,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Apache",
+    "Nearest  City or Town":"Greer"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-109.276545,32.773008]
+    },
+    "properties": {
+    "Tree  ID":3855,
+    "Scientific  Name":"Rhus  microphylla",
+    "Common  Name":"Littleleaf  Sumac",
+    "Cir  (in)":13,
+    "H  (ft)":14,
+    "Spread  (ft)":20,
+    "Total Score":32,
+    "Year  Nominated":2007,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Graham",
+    "Nearest  City or Town":"Duncan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.755,34.999 ]
+    },
+    "properties": {
+    "Tree  ID":3859,
+    "Scientific  Name":"Ostrya  knowltonii",
+    "Common  Name":"Knowlton  Hophornbeam",
+    "Cir  (in)":132,
+    "H  (ft)":40,
+    "Spread  (ft)":47,
+    "Total Score":184,
+    "Year  Nominated":2007,
+    "Last  Measured":2016,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Sedona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.023,34.634 ]
+    },
+    "properties": {
+    "Tree  ID":3860,
+    "Scientific  Name":"Rhamnus  crocea",
+    "Common  Name":"Hollyleaf  Buckthorn",
+    "Cir  (in)":52,
+    "H  (ft)":16,
+    "Spread  (ft)":18,
+    "Total Score":73,
+    "Year  Nominated":2007,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Cottonwood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [-111.958308,34.684137 ]
+    },
+    "properties": {
+    "Tree  ID":3865,
+    "Scientific  Name":"Acacia  greggii",
+    "Common  Name":"Gregg's  Catclaw",
+    "Cir  (in)":74,
+    "H  (ft)":34,
+    "Spread  (ft)":35.5,
+    "Total Score":117,
+    "Year  Nominated":2007,
+    "Last  Measured":2016,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Cornville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.83183,34.32816 ]
+    },
+    "properties": {
+    "Tree  ID":3866,
+    "Scientific  Name":"Pinus  monophylla  var.  fallax",
+    "Common  Name":"Singleleaf  Pinyon",
+    "Cir  (in)":101,
+    "H  (ft)":84,
+    "Spread  (ft)":45,
+    "Total Score":196,
+    "Year  Nominated":2007,
+    "Last  Measured":2013,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Cordes  Lakes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.719,34.837 ]
+    },
+    "properties": {
+    "Tree  ID":3896,
+    "Scientific  Name":"Juniperus  monosperma",
+    "Common  Name":"Oneseed  Juniper",
+    "Cir  (in)":130,
+    "H  (ft)":28,
+    "Spread  (ft)":27,
+    "Total Score":165,
+    "Year  Nominated":2007,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Sedona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.0995,31.547516 ]
+    },
+    "properties": {
+    "Tree  ID":4109,
+    "Scientific  Name":"Rhus  virens  var.  choriophylla",
+    "Common  Name":"Mearns  Sumac",
+    "Cir  (in)":21,
+    "H  (ft)":23,
+    "Spread  (ft)":16,
+    "Total Score":48,
+    "Year  Nominated":2007,
+    "Last  Measured":2019,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Santa  Cruz",
+    "Nearest  City or Town":"Tumacacori"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.9607,32.70731 ]
+    },
+    "properties": {
+    "Tree  ID":4115,
+    "Scientific  Name":"Populus  tremuloides",
+    "Common  Name":"Quaking  Aspen",
+    "Cir  (in)":152,
+    "H  (ft)":130,
+    "Spread  (ft)":36,
+    "Total Score":291,
+    "Year  Nominated":2007,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Graham",
+    "Nearest  City or Town":"Safford"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.247117,36.064617 ]
+    },
+    "properties": {
+    "Tree  ID":4118,
+    "Scientific  Name":"Purshia  mexicana",
+    "Common  Name":"Mexican  Cliffrose",
+    "Cir  (in)":37,
+    "H  (ft)":22,
+    "Spread  (ft)":17,
+    "Total Score":63,
+    "Year  Nominated":2007,
+    "Last  Measured":2009,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Tusayan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.7,33.934 ]
+    },
+    "properties": {
+    "Tree  ID":4123,
+    "Scientific  Name":"Prosopis  pubescens",
+    "Common  Name":"Screwbean  Mesquite",
+    "Cir  (in)":43,
+    "H  (ft)":24,
+    "Spread  (ft)":31,
+    "Total Score":75,
+    "Year  Nominated":2007,
+    "Last  Measured":2013,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Maricopa",
+    "Nearest  City or Town":"Wickenburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.516516,31.986416 ]
+    },
+    "properties": {
+    "Tree  ID":4124,
+    "Scientific  Name":"Eysenhardtia  orthocarpa",
+    "Common  Name":"Kidneywood",
+    "Cir  (in)":28,
+    "H  (ft)":28,
+    "Spread  (ft)":20,
+    "Total Score":61,
+    "Year  Nominated":2007,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pima",
+    "Nearest  City or Town":"Three  Points"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.898,34.949 ]
+    },
+    "properties": {
+    "Tree  ID":4125,
+    "Scientific  Name":"Garrya  wrightii",
+    "Common  Name":"Wright's  Silktassel",
+    "Cir  (in)":38,
+    "H  (ft)":17,
+    "Spread  (ft)":19,
+    "Total Score":60,
+    "Year  Nominated":2007,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Sedona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.597161,34.628702 ]
+    },
+    "properties": {
+    "Tree  ID":4126,
+    "Scientific  Name":"Juniperus  deppeana",
+    "Common  Name":"Alligator  Juniper",
+    "Cir  (in)":324,
+    "H  (ft)":52,
+    "Spread  (ft)":70,
+    "Total Score":394,
+    "Year  Nominated":1998,
+    "Last  Measured":2015,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Prescott"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.33633,33.4031 ]
+    },
+    "properties": {
+    "Tree  ID":4572,
+    "Scientific  Name":"Carnegiea  gigantea",
+    "Common  Name":"Saguaro",
+    "Cir  (in)":83,
+    "H  (ft)":54,
+    "Spread  (ft)":15,
+    "Total Score":141,
+    "Year  Nominated":2009,
+    "Last  Measured":2009,
+    "Status":"Co-Champion",
+    "Public":"Y",
+    "County":"Pinal",
+    "Nearest  City or Town":"Apache  Junction"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.46206,32.98797 ]
+    },
+    "properties": {
+    "Tree  ID":4636,
+    "Scientific  Name":"Opuntia  ficus-indica",
+    "Common  Name":"Prickly  Pear",
+    "Cir  (in)":40,
+    "H  (ft)":14,
+    "Spread  (ft)":15,
+    "Total Score":58,
+    "Year  Nominated":2009,
+    "Last  Measured":2019,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Pinal",
+    "Nearest  City or Town":"Coolidge"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.14301,34.44613 ]
+    },
+    "properties": {
+    "Tree  ID":4745,
+    "Scientific  Name":"Abies  lasiocarpa  var.  arizonica",
+    "Common  Name":"Corkbark  Fir",
+    "Cir  (in)":205,
+    "H  (ft)":70,
+    "Spread  (ft)":78,
+    "Total Score":295,
+    "Year  Nominated":2010,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Payson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.85926,31.72966 ]
+    },
+    "properties": {
+    "Tree  ID":4851,
+    "Scientific  Name":"Arbutus  arizonica",
+    "Common  Name":"Arizona  Madrone",
+    "Cir  (in)":127,
+    "H  (ft)":40,
+    "Spread  (ft)":38,
+    "Total Score":177,
+    "Year  Nominated":2011,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Santa  Cruz",
+    "Nearest  City or Town":"Green  Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.47507,33.83634 ]
+    },
+    "properties": {
+    "Tree  ID":4852,
+    "Scientific  Name":"Olneya  tesota",
+    "Common  Name":"Desert  Ironwood",
+    "Cir  (in)":196,
+    "H  (ft)":45,
+    "Spread  (ft)":62,
+    "Total Score":257,
+    "Year  Nominated":2011,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Maricopa",
+    "Nearest  City or Town":"Morristown"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.86341,31.72141 ]
+    },
+    "properties": {
+    "Tree  ID":4871,
+    "Scientific  Name":"Quercus  hypoleucoides",
+    "Common  Name":"Silverleaf  Oak",
+    "Cir  (in)":135,
+    "H  (ft)":57,
+    "Spread  (ft)":40,
+    "Total Score":202,
+    "Year  Nominated":2011,
+    "Last  Measured":2010,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Santa  Cruz",
+    "Nearest  City or Town":"Green  Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.82,34.646 ]
+    },
+    "properties": {
+    "Tree  ID":5007,
+    "Scientific  Name":"Platanus  wrightii",
+    "Common  Name":"Arizona  Sycamore",
+    "Cir  (in)":424,
+    "H  (ft)":54,
+    "Spread  (ft)":102,
+    "Total Score":504,
+    "Year  Nominated":2011,
+    "Last  Measured":2011,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Cornville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.822,34.95 ]
+    },
+    "properties": {
+    "Tree  ID":5008,
+    "Scientific  Name":"Arctostaphylos  pringlei",
+    "Common  Name":"Pringle  Manzanita",
+    "Cir  (in)":88,
+    "H  (ft)":19,
+    "Spread  (ft)":23,
+    "Total Score":113,
+    "Year  Nominated":2011,
+    "Last  Measured":2011,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Sedona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7625,34.6463 ]
+    },
+    "properties": {
+    "Tree  ID":5009,
+    "Scientific  Name":"Rhamnus  californica",
+    "Common  Name":"California  Buckthorn",
+    "Cir  (in)":42,
+    "H  (ft)":18,
+    "Spread  (ft)":34,
+    "Total Score":69,
+    "Year  Nominated":2011,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Camp  Verde"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.9696,34.4024 ]
+    },
+    "properties": {
+    "Tree  ID":5046,
+    "Scientific  Name":"Rhus  ovata",
+    "Common  Name":"Sugar  Sumac",
+    "Cir  (in)":74,
+    "H  (ft)":28,
+    "Spread  (ft)":35,
+    "Total Score":111,
+    "Year  Nominated":2012,
+    "Last  Measured":2012,
+    "Status":"Co-Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Hillside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.97245,34.35255 ]
+    },
+    "properties": {
+    "Tree  ID":5047,
+    "Scientific  Name":"Ziziphus  obtusifolia",
+    "Common  Name":"Lotebush",
+    "Cir  (in)":28,
+    "H  (ft)":17,
+    "Spread  (ft)":18,
+    "Total Score":50,
+    "Year  Nominated":2012,
+    "Last  Measured":2012,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Congress"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.283,32.4808 ]
+    },
+    "properties": {
+    "Tree  ID":5053,
+    "Scientific  Name":"Bursera  microphylla",
+    "Common  Name":"Elephant  Tree",
+    "Cir  (in)":40,
+    "H  (ft)":16,
+    "Spread  (ft)":22,
+    "Total Score":62,
+    "Year  Nominated":2012,
+    "Last  Measured":2012,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Yuma",
+    "Nearest  City or Town":"Barry  Goldwater  Range"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.83153,33.92058 ]
+    },
+    "properties": {
+    "Tree  ID":5173,
+    "Scientific  Name":"Pinus  leiophylla  var.  chihuahuana",
+    "Common  Name":"Chihuahua  Pine",
+    "Cir  (in)":122,
+    "H  (ft)":90,
+    "Spread  (ft)":34,
+    "Total Score":221,
+    "Year  Nominated":2012,
+    "Last  Measured":2012,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Apache",
+    "Nearest  City or Town":"Whiteriver"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.682143,34.511689 ]
+    },
+    "properties": {
+    "Tree  ID":5182,
+    "Scientific  Name":"Populus  fremontii  ssp.  fremontii",
+    "Common  Name":"Fremont  Cottonwood",
+    "Cir  (in)":560,
+    "H  (ft)":102,
+    "Spread  (ft)":160.5,
+    "Total Score":702,
+    "Year  Nominated":2012,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Skull  Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.620583,33.55245 ]
+    },
+    "properties": {
+    "Tree  ID":5537,
+    "Scientific  Name":"Carnegiea  gigantea",
+    "Common  Name":"Saguaro",
+    "Cir  (in)":91,
+    "H  (ft)":30,
+    "Spread  (ft)":9,
+    "Total Score":123,
+    "Year  Nominated":2014,
+    "Last  Measured":2018,
+    "Status":"Co-Champion",
+    "Public":"Y",
+    "County":"Maricopa",
+    "Nearest  City or Town":"Mesa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.200575,32.543189 ]
+    },
+    "properties": {
+    "Tree  ID":5731,
+    "Scientific  Name":"Vachellia  constricta",
+    "Common  Name":"Whitethorn  Acacia",
+    "Cir  (in)":13,
+    "H  (ft)":17,
+    "Spread  (ft)":19,
+    "Total Score":35,
+    "Year  Nominated":2016,
+    "Last  Measured":2016,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Pima",
+    "Nearest  City or Town":"Marana"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.932183,32.465633 ]
+    },
+    "properties": {
+    "Tree  ID":5776,
+    "Scientific  Name":"Yucca  elata",
+    "Common  Name":"Soaptree  Yucca",
+    "Cir  (in)":33,
+    "H  (ft)":29,
+    "Spread  (ft)":4,
+    "Total Score":63,
+    "Year  Nominated":2016,
+    "Last  Measured":2016,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pima",
+    "Nearest  City or Town":"Oro  Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.868583,31.727444 ]
+    },
+    "properties": {
+    "Tree  ID":5833,
+    "Scientific  Name":"Quercus  rugosa",
+    "Common  Name":"Netleaf  Oak",
+    "Cir  (in)":92,
+    "H  (ft)":54,
+    "Spread  (ft)":53,
+    "Total Score":159,
+    "Year  Nominated":2016,
+    "Last  Measured":2016,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pima",
+    "Nearest  City or Town":"Madera  Canyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.00075,34.74732 ]
+    },
+    "properties": {
+    "Tree  ID":5870,
+    "Scientific  Name":"Morus  microphylla",
+    "Common  Name":"Texas  Mulberry",
+    "Cir  (in)":228,
+    "H  (ft)":48,
+    "Spread  (ft)":112,
+    "Total Score":304,
+    "Year  Nominated":2017,
+    "Last  Measured":2015,
+    "Status":"Champion",
+    "Public":"N",
+    "County":"Yavapai",
+    "Nearest  City or Town":"Cottonwood"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.15722,33.27837 ]
+    },
+    "properties": {
+    "Tree  ID":6247,
+    "Scientific  Name":"Eucalyptus  camaldulensis",
+    "Common  Name":"Longbeak  Eucalyptus",
+    "Cir  (in)":266,
+    "H  (ft)":117,
+    "Spread  (ft)":119,
+    "Total Score":413,
+    "Year  Nominated":2018,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Pinal",
+    "Nearest  City or Town":"Superior"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.32106,36.70459 ]
+    },
+    "properties": {
+    "Tree  ID":6264,
+    "Scientific  Name":"Juniperus  osteosperma",
+    "Common  Name":"Utah  Juniper",
+    "Cir  (in)":172,
+    "H  (ft)":33,
+    "Spread  (ft)":50,
+    "Total Score":218,
+    "Year  Nominated":2018,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Jacobs  Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.728361,35.007083 ]
+    },
+    "properties": {
+    "Tree  ID":6350,
+    "Scientific  Name":"Pinus  ponderosa  var.  brachyptera",
+    "Common  Name":"Southwestern  Ponderosa  Pine",
+    "Cir  (in)":196,
+    "H  (ft)":113,
+    "Spread  (ft)":45,
+    "Total Score":320,
+    "Year  Nominated":2018,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Coconino",
+    "Nearest  City or Town":"Sedona"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.82259,33.28563 ]
+    },
+    "properties": {
+    "Tree  ID":6352,
+    "Scientific  Name":"Robinia  neomexicana",
+    "Common  Name":"New  Mexico  Locust",
+    "Cir  (in)":71,
+    "H  (ft)":38,
+    "Spread  (ft)":22,
+    "Total Score":115,
+    "Year  Nominated":2018,
+    "Last  Measured":2018,
+    "Status":"Champion",
+    "Public":"Y",
+    "County":"Gila",
+    "Nearest  City or Town":"Globe"
+    }
+  }
+]
+}
